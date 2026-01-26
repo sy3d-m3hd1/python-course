@@ -1,5 +1,5 @@
 username = input("What's your name: ")
-print(f"Nice to meet you, {username}3nigg")
+print(f"Nice to meet you, {username}")
 
 age = input("How old are you: ")
 print(f"Wow, {age} years old")
