@@ -1,4 +1,4 @@
-name = "Penguin"
+name = "Jayden"
 age = 15
 is_student = True
 weight = 38.5
