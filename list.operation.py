@@ -1,0 +1,11 @@
+list1= ["Valorant","Nba 2k26","Fifa26","Warefare","Call of duty"]
+print(list1)
+print(len(list1))
+list1.append("Minecraft")
+print(list1)
+list1.remove("Warefare")
+print(list1)
+list1.sort()
+print(list1)
+list1.reverse()
+print(list1)

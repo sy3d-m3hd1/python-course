@@ -17,3 +17,4 @@ print("Data Type of age is", type(age))
 weight = int(weight)
 print(weight)
 print("Data Type of Weight is", type(weight))
+print
